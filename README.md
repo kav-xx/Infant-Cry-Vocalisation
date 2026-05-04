@@ -1,5 +1,3 @@
-## Infant-Cry-Vocalisation
-
 # 🍼 Infant Cry Emotion Classifier
 
 A deep learning system that classifies infant cry emotions in real-time using entropy-based audio features and a hybrid CNN-BiLSTM model.
